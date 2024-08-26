@@ -1,0 +1,1 @@
+# Functional-Coverage-of-8-Bit-Counter-Using-SystemVerilog-Testbench
